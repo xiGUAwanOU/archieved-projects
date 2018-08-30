@@ -19,5 +19,5 @@ The trail task of my first job. Implementation of a set of rules to compare two 
 ## Text-based game
 It is not dead, currently Game Project 02, re-writing it with Java.
 
-## Overview Language
-Tried to implement a new programming language, but at last find it might not worth that much at this stage. Now concentrating on improving the joyful-utilities, maybe later will make a DSL for joyful-utilities.
+## Joyful World
+Restored the overview-language project and archieved this one, because it seems that a new programming language is not avoidable.
