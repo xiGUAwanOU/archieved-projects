@@ -9,3 +9,6 @@ Fixed a bug in this library. This is the first time I was contributing to an ope
 
 ## Poker Hands Comparision
 The trail task of my first job. Implementation of a set of rules to compare two poker hands. Sounds quite simple, but it is very easy to produce spaghetti code here.
+
+## Travel Blog
+A personal website project, a blog recording my travelling experiences.
